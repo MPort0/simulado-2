@@ -57,3 +57,4 @@ Todos os campos são obrigatórios: a API retorna **400** se algum faltar,
 
 Abra `testes.http` no VS Code com a extensão **REST Client** e clique em
 **Send Request** acima de cada requisição. Também é possível usar Postman, Insomnia ou Thunder Client.
+"# simulado-2" 
